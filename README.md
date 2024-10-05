@@ -1,0 +1,2 @@
+# PartiPipol
+App for Parties
